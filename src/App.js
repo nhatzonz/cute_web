@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import MessageCard from './components/MessageCard';
 import FloatingHearts from './components/FloatingHearts';
 import './App.css';
+import './font.css';
 
 const AppContainer = styled.div`
   width: 100%;
@@ -83,7 +84,7 @@ const Title = styled(motion.h1)`
   transition={{ duration: 1 }}
   className="responsive-title"
 >
- Chúc mừng ngày 8/3, cún iu cụa anhhh!
+Chúc mừng ngày 8/3, người phụ nữ xinh đẹp!
 </Title>
 
 const PuppyContainer = styled(motion.div)`
@@ -205,7 +206,8 @@ function App() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        Chúc mừng ngày 8/3, cún iu cụa anhhh!
+        {/* Chúc mừng ngày 8/3, em iu cuteeee !! */}
+        💗 Gửi đến Tình yêu của đời anh 💗
       </Title>
       
       <PuppyContainer
