@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cute_web/static/css/main.96ab9f00.css",
+    "main.js": "/cute_web/static/js/main.58561f61.js",
+    "static/js/453.9444bf89.chunk.js": "/cute_web/static/js/453.9444bf89.chunk.js",
+    "static/media/123_em_yeu_anh2.mp3": "/cute_web/static/media/123_em_yeu_anh2.e8551a3bc23124d2a02a.mp3",
+    "static/media/SVN-Claytonia.ttf": "/cute_web/static/media/SVN-Claytonia.2352d3cc88deda9f8c27.ttf",
+    "static/media/hainguoi.jpg": "/cute_web/static/media/hainguoi.fdc2dab8fd1c40ee884c.jpg",
+    "index.html": "/cute_web/index.html",
+    "main.96ab9f00.css.map": "/cute_web/static/css/main.96ab9f00.css.map",
+    "main.58561f61.js.map": "/cute_web/static/js/main.58561f61.js.map",
+    "453.9444bf89.chunk.js.map": "/cute_web/static/js/453.9444bf89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96ab9f00.css",
+    "static/js/main.58561f61.js"
+  ]
+}
